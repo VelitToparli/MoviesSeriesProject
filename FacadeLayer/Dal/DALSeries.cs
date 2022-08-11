@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using EntityLayer.Entities;
 namespace FacadeLayer.Dal
 {
     class DALSeries
