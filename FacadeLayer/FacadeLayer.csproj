@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Connection\DbConnection.cs" />
+    <Compile Include="Dal\DALActor.cs" />
     <Compile Include="Dal\DALCategory.cs" />
     <Compile Include="Dal\DALMovie.cs" />
     <Compile Include="Dal\DALSeries.cs" />

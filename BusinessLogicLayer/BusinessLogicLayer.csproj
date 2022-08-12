@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BL\BLActor.cs" />
     <Compile Include="BL\BLCategory.cs" />
     <Compile Include="BL\BLMovie.cs" />
     <Compile Include="BL\BLSeries.cs" />
